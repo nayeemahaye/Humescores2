@@ -1,0 +1,331 @@
+body.sidebar-enabled {
+	width: calc(100% - 45px);
+	margin-left: 45px;
+}
+#site-sidebar {
+
+	width: 500px;
+	height: 100%;
+	left: 0;
+	top: 0;
+	position: fixed;
+	z-index: 9999;
+	background: $sideBgColor;
+	color: $sideTxtColor;
+	overflow: hidden;
+	transition: transform 400ms $easeInOutQuint;
+	transform: translate3d(-455px, 0, 0);
+
+	&.out {
+		transform: translate3d(-500px, 0, 0);
+	}
+
+	&.opened {
+		transform: translate3d(0, 0, 0);
+	}
+
+	.site-sidebar-holder {
+		width: calc(100% + 20px);
+		height: 100%;
+		padding: 280px 100px 150px;
+		overflow-y: scroll;
+	}
+
+	.widget:not(:last-child) {
+		margin-bottom: 100px;
+	}
+
+	.site-sidebar-content {
+		width: calc(100% - 20px);
+	}
+
+}
+
+#site-sidebar-wrap {
+	height: 100%;
+}
+
+// animations related stuff from main structure
+
+body.sidebar-opened, body.cart-opened, body.map-opened {
+
+	//overflow: hidden;
+
+	#site {
+		opacity: .15;
+		pointer-events: none;
+		-ms-user-select: none;
+		-moz-user-select: none;
+		-webkit-user-select: none;
+		user-select: none;
+	}
+	
+}
+
+body.sidebar-opened #site {
+	left: 455px;
+}
+
+body.map-opened #site {
+	//transform: translate3d(455px, 0, 0);
+	left: 62.5%;
+}
+
+#site-sidebar-closer {
+
+	position: relative;
+	top: -145px;
+	left: -15px;
+	width: 50px;
+	height: 50px;
+	margin-bottom: -50px;
+	z-index: 999;
+	text-align: center;
+	padding-top: 12px;
+	cursor: pointer;
+
+	span {
+
+    display: inline-block;
+    width: 23px;
+    height: 23px;
+		transform: rotate(-135deg);
+
+		svg path {
+			stroke: $sideTxtColor;
+			transition: stroke 150ms linear;
+		}
+
+	}
+
+}
+
+#site-sidebar-opener {
+
+	position: absolute;
+	top: 50%;
+	right: 8px;
+	width: 28px;
+	height: 25px;
+	padding: 5px;
+	z-index: 999;
+	text-align: center;
+	cursor: pointer;
+	opacity: .15;
+	transition: opacity 150ms linear;
+
+	&:hover {
+		opacity: .3;
+	}
+
+	svg path {
+		stroke: $sideTxtColor;
+	}
+
+	&.opened {
+		opacity: 0;
+	}
+
+}
+
+// Widgets
+
+.widget-title {
+	font-size: rem(19px);
+	font-weight: 600;
+	line-height: 1.2;
+	margin-bottom: rem(25px);
+}
+
+.widget {
+
+	#site-sidebar & {
+		line-height: 1.4;
+	}
+
+	// Lists
+
+	ul, ol {
+		list-style: none;
+		margin: 0;
+	}
+
+	li {
+
+		&:not(:last-child) {	
+			margin-bottom: 10px;
+		}
+
+		a {
+
+			position: relative;
+			padding: 0 20px;
+			display: inline-block;
+
+			&:before {
+				content: "";
+				display: block;
+				height: 1px;
+				width: 10px;
+				margin-right: 10px;
+				margin-top: 10px;
+				position: absolute;
+				top: 0;
+				left: 0;
+				background: $sideTxtColor;
+				transition: all 150ms linear;
+			}
+
+			&:hover:before {
+				background: $accColor;
+		    width: 8px;
+		    height: 8px;
+		    border-radius: 100%;
+		    margin-top: 7px
+			}
+
+		}
+
+	}
+
+}
+
+.widget_recent_comments a:before {
+	display: none !important;
+}
+
+// Tag cloud
+
+.tagcloud {
+
+	@include clearfix();
+	margin-left: -3px;
+	width: calc(100% + 6px);
+
+	a {
+
+		display: inline-block;
+		margin: 3px;
+		float: left;
+		font-size: rem(13px) !important;
+		font-weight: 500;
+		line-height: 1.2;
+		padding: 6px 15px 5px;
+		border-radius: 8px;
+		border: 2px solid rgba($sideTxtColor, 0.15);
+
+		&:hover {
+			border-color: $accColor;
+		}
+
+	}
+
+}
+
+// Search form
+
+.searchform {
+
+	position: relative;
+
+	input {
+
+		background: none;
+		border: none;
+		border-bottom: 2px solid $sideTxtColor;
+		padding: 0 0 6px 10px;
+		width: 100%;
+
+		@include input-placeholder {
+			color: $sideTxtColor;
+			opacity: 1;
+		}
+
+	}
+
+	button {
+
+		position: absolute;
+		background: none;
+		border: none;
+		top: -2px;
+		right: 5px;
+
+		svg, svg * {
+			fill: $sideTxtColor;
+			stroke: none !important;
+		}
+
+	}
+
+}
+
+// Calendar
+
+.calendar_wrap {
+
+	font-size: rem(16px);
+	line-height: 40px; 
+	text-align: center;
+	position: relative;
+
+	caption {
+		margin-bottom: 5px;
+		opacity: .3;
+	}
+
+	td {
+
+		width: 40px;
+		height: 38px;
+		transition: 150ms linear;
+		position: relative;
+
+		&#today {
+			color: $accColor;
+			&:after {
+				content: "";
+				display: block;
+				position: absolute;
+				width: 100%;
+				height: 100%;
+				top: -1px;
+				left: -1px;
+				border: 1px solid $accColor;
+			}
+		}
+
+		a {
+			color: $accColor;
+			&:hover {
+				font-weight: bold;
+			}
+		}
+
+	}
+
+	tfoot {
+
+		position: absolute;
+		top: 0;
+
+		a {
+			font-size: 0;
+			&:before {
+				font-size: rem(14px);
+				color: $sideTxtColor;
+			}
+		}
+
+		td#prev a:before {
+			content: "❮";
+		}
+		td#next a:before {
+			content: "❯";
+		}
+
+	}
+
+}
+
+// Tag cloud

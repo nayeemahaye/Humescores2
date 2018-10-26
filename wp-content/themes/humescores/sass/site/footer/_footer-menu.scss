@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-Oct-2018, 18:28:12
+    Author     : nayeemahaye
+*/
+
+.social-media-links {
+    
+
+	display: block;
+	
+	font-family: $font__sans;
+	font-weight: 400;
+	clear: left;
+        
+	
+	ul {
+            justify-content: center;
+		display: flex;
+		list-style: none;
+		margin: 0;
+		padding-top: 1em;
+		padding-left: 0;
+
+		ul {
+			display: none;
+			top: 1.5em;
+			z-index: 99999;
+
+			ul {
+				top: 0;
+			}
+
+			li {
+				padding-left: 1em;
+				
+				&:hover > ul,
+				&.focus > ul {
+					left: 100%;
+				}
+			}
+
+			a {
+				width: 200px;
+			}
+		}
+
+		li:hover > ul,
+		li.focus > ul {
+			left: auto;
+		}
+	}
+
+	li {
+		position: relative;
+	}
+
+	a {
+		display: inline-block;
+		width: 100%;
+		padding: .5em 1em .5em 0;
+		text-decoration: none;
+		color: #fff;
+	}
+	
+	a:hover,
+	a:focus {
+		text-decoration: underline;
+	}
+
+	.current_page_item > a,
+	.current-menu-item > a,
+	.current_page_ancestor > a,
+	.current-menu-ancestor > a {
+	}
+	
+/*	.menu-item-has-children,
+	.page-item-has-children {
+		min-width: 218px;
+	}
+	.menu-item-has-children > a,
+	.page_item_has_children > a {
+		padding-right: 2em;
+	}*/
+
+}

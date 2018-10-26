@@ -1,0 +1,196 @@
+26 May 2018 - v1.3.9.6
+
+	* Fixed an issue with the Columns Manager in WordPress 4.9.6
+
+10 Apr 2018 - v1.3.9.4
+	* Fixed an issue with the blog carousel header
+	* Fixed an issue with column centering on mobile devices
+	* Added support for WooCommerce 3.3.3
+	* Improved portfolio shortcode with a tag option
+
+5 Dec 2017 - v1.3.9.3
+
+	* Fixed an isolated customizer bug
+
+23 Nov 2017 - v1.3.9.2
+
+	* Fixed a bug related video players in WordPress 4.9
+
+19 Oct 2017 - v.1.3.9.1
+
+	* Fixed a bug from the previous release
+
+18 Oct 2017 - v1.3.9
+
+	* Fixed video background support for mobile devices
+	* Added support for WooCommerce 2.3.1
+
+11 Sept 2017 - v1.3.8
+
+	* Improved portfolio options for mobile devices
+	* Added "back button" for blog posts & shop pages
+	* Added video background support for mobile devices
+	* Added more social options
+	* Fixed various bugs
+
+4 Aug 2017 - v1.3.7
+
+	* Fixed various bugs
+
+21 Jul 2017 - v1.3.6
+
+	* Fixed various bugs
+
+4 Jul 2017 - v1.3.5
+
+	* Added support for WooCommerce 3.1.0
+
+23 Jun 2017 - v1.3.4
+
+	* Fixed overlay menu issues caused by last update
+
+19 Jun 2017 - v1.3.4	
+	
+	* Fixed overlay menus
+
+15 Jun 2017 - v1.3.3
+
+	* Added support for lightbox captions
+	* Fixed scrolling issues in WordPress 4.8
+	* Added files for latest ACF version
+	* Improved the Covers page template
+
+30 May 2017 - v1.3.2
+
+	* Improved lightbox plugin
+	* Fixed various bugs
+
+12 May 2017 - v1.3.1
+
+	* Added more options to the "COVERS" feature 
+	* Fixed various WooCommerce bugs
+	* Improved the mobile menu
+
+1 May 2017 - v1.3.0.1
+
+	* Fixed a bug from v1.3.0
+
+28 Apr 2017 - v1.3.0
+	
+	* Added a new "COVERS" feature
+	* Added support for Apply Pay
+	* Improved general support for WooCommerce
+	* Fixed long submenu issues
+	* Included the latest version of ACF
+
+5 Apr 2017 - v1.2.8
+
+	* Improved support for WooCommerce 3.0.0
+
+3 Apr 2017 - v1.2.7
+
+	* Added support for WooCommerce 3.0.0
+	* Added support for product shortcodes
+	* Added files for latest ACF version
+
+14 Mar 2017 - v1.2.6
+
+	* Added pagination to the blog & portfolio shortcodes
+	* Fixed issues with custom links in menu
+	* Fixed issues with blog hero header
+
+23 Feb 2017 - v1.2.5
+
+	* Added a third blog post style, featuring hero headers
+	* Improved parallax backgrounds
+	* Improved hero header with more options
+	* Fixed lots of other small bugs
+
+13 Feb 2017 - v1.2.4
+	
+	* Fixed the portfolio grid (broke in v1.2.3)
+	* Fixed some other small bugs
+
+7 Feb 2017 - v1.2.3
+	
+	* Fixed the portfolio shortcode (broke in v1.2.1)
+
+1 Feb 2017 - v1.2.2
+
+	* Improved hero header with more options
+	* Added custom color scheme for blog posts
+	* Fixed some issues in the portfolio grid
+	* Fixed a few WooCommerce style issues 
+
+27 Jan 2017 - v1.2.1
+	
+	* Added a blog shortcode
+	* Fixed various bugs
+
+13 Jan 2017 - v1.2.0
+
+	* Added a new hovering option
+	* Added a portfolio shortcode
+	* Improved WooCommerce notices
+	* Improved WPML support
+	* Added caption support for hero sliders
+	* Fixed various bugs
+
+6 Jan 2017 - v1.1.5
+
+	* Improved lightbox functionanlity
+	* Added pagination option for the shop
+	* Added custom logo option for the blog
+	* Fixed a handful of WooCommerce bugs
+	* Fixed navigation for posts with comments disabled
+
+16 Dec 2016 - v1.1.0
+	
+	* Added a new portfolio hover style
+	* Added the option to load custom URL's from the portfolio thumbnails
+	* Fixed various bugs
+
+9 Dec 2016 - v1.0.5
+
+	* Fixed a bug in IE11
+	* Fixed some search related issues
+	* Fixed password protection for portfolio pages
+	* Added option to display sharing links as icons
+	* Added support for v4.6 of Contact Form 7
+	* Added Spanish translation
+
+5 Dec 2016 - v1.0.4
+
+	* Fixed a small design bug
+
+1 Dec 2016 - v1.0.3
+
+	* Added password protection for content
+	* Added the option to hide the page title even when there is no hero header
+	* Added the option to display content before the portfolio grid
+	* Improved WordPress galleries with more options
+	* Updated Calafate Shortcodes and Advanced Custom Fields plugins
+
+25 Nov 2016 - v1.0.2
+
+	* Added lightbox option for portfolio grid items
+	* Added toggle shortcode (updated the Calafate Shortcodes plugin to v0.2)
+	* Added styling for "Related Posts for WordPress" plugin
+	* Added German translation
+	* Fixed contact form display bugs
+	* Fixed laggish loading on Chrome
+	* Fixed an error related to the WooCommerce checkout page
+
+18 Nov 2016 - v1.0.1
+
+	* Added autoplay option for hero sliders
+	* Added "always visible" option for the header
+	* Added the option to display content after the portfolio grid
+	* Added option to display search icon on mobile devices
+	* Added support for Visual Composer
+	* Improved video lightbox support
+	* Fixed some minor bugs
+
+15 Nov 2016 - v1.0.0
+
+	* Initial Release

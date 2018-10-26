@@ -1,0 +1,2405 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Calafate\n"
+"POT-Creation-Date: 2017-10-30 17:11+0200\n"
+"PO-Revision-Date: 2016-06-18 14:15+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15 inc/customizer.php:48
+msgid "404"
+msgstr ""
+
+#: 404.php:16
+msgid "Return to the homepage"
+msgstr ""
+
+#: comments.php:32 woocommerce/single-product-reviews.php:75
+msgid "Name"
+msgstr ""
+
+#: comments.php:33 woocommerce/single-product-reviews.php:77
+msgid "Email"
+msgstr ""
+
+#: comments.php:36 comments.php:45
+msgid "Comment"
+msgstr ""
+
+#: comments.php:38
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgid ""
+"You are logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log "
+"out of this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:46
+msgid "Reply"
+msgstr ""
+
+#: comments.php:47 inc/krown-column-manager/krown-column-manager.php:147
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:48
+msgid "Send"
+msgstr ""
+
+#: comments.php:60 comments.php:82
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:63 comments.php:85
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:64 comments.php:86
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:95
+msgid "This post doesn't have any comment. Be the first one!"
+msgstr ""
+
+#: comments.php:102
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:110
+msgid "hide comments"
+msgstr ""
+
+#: footer.php:105
+msgid ""
+"This is a unique website which will require a more modern browser to work!"
+msgstr ""
+
+#: footer.php:106
+msgid "Please upgrade today!"
+msgstr ""
+
+#: footer.php:113
+msgid "This is a modern website which will require Javascript to work."
+msgstr ""
+
+#: footer.php:114
+msgid "Please turn it on!"
+msgstr ""
+
+#: functions.php:29
+msgid "Primary"
+msgstr ""
+
+#: functions.php:71
+msgid "Main sidebar"
+msgstr ""
+
+#: functions.php:73
+msgid "Add your widgets here."
+msgstr ""
+
+#: functions.php:81
+msgid "Footer"
+msgstr ""
+
+#: functions.php:83
+msgid "Keep it mininmal"
+msgstr ""
+
+#: functions.php:159
+msgid "Post comment"
+msgstr ""
+
+#: functions.php:160
+msgid "Your comment was posted and it is awaiting moderation."
+msgstr ""
+
+#: functions.php:161 inc/woocommerce.php:682
+msgid "Duplicate content detected. It seems that you've posted this before."
+msgstr ""
+
+#: functions.php:162
+msgid "Posting your comment, please wait..."
+msgstr ""
+
+#: functions.php:163 inc/woocommerce.php:684
+msgid "Please complete all the required fields."
+msgstr ""
+
+#: functions.php:199 inc/functions/general.php:134
+#: inc/functions/header-page.php:952 search.php:15
+msgid "Search"
+msgstr ""
+
+#: functions.php:200 inc/woocommerce.php:680
+msgid "Close"
+msgstr ""
+
+#: functions.php:499
+msgid "Theme Tools"
+msgstr ""
+
+#: functions.php:520
+msgid "This content is password protected"
+msgstr ""
+
+#: functions.php:521
+msgid "To view it please enter your password below"
+msgstr ""
+
+#: functions.php:522 woocommerce/myaccount/form-login.php:75
+#: woocommerce/myaccount/form-login.php:137
+msgid "Password"
+msgstr ""
+
+#: functions.php:523
+msgid "Wrong password. Please try again."
+msgstr ""
+
+#: functions.php:523
+msgid "Write your password and hit ENTER"
+msgstr ""
+
+#: functions.php:524
+msgid "or Go back to the homepage"
+msgstr ""
+
+#: functions.php:546 functions.php:552
+msgid "Secondary Featured Image"
+msgstr ""
+
+#: header.php:87
+msgid "Homepage"
+msgstr ""
+
+#: header.php:88
+msgid "Set Up Your Menu"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:7
+msgid "Map Settings"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:11
+msgid "Google maps"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:22
+#: inc/advanced-custom-fields-pro-config.php:97
+#: inc/advanced-custom-fields-pro-config.php:1157
+#: inc/advanced-custom-fields-pro-config.php:1192
+#: inc/advanced-custom-fields-pro-config.php:1398
+#: inc/advanced-custom-fields-pro-config.php:1433
+msgid "Enable"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:27
+msgid "Latitude"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:48
+msgid "Longitude"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:69
+msgid "Info"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:80
+msgid ""
+"Use the tool on this website to find your exact map coordinates: <a href="
+"\"http://www.mapcoordinates.net/en\" target=\"_blank\">www.mapcoordinates."
+"net</a>"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:86
+msgid "Marker"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:102
+msgid "Marker image"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:105
+msgid "Image should be a 240 x 240px transparent png file."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:126
+msgid "Zoom level"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:149
+msgid "Style"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:172
+msgid "Google API Key"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:175
+msgid ""
+"Since Google Maps changed their API to version 3, all the embedded maps need "
+"an API key in order to run. Maps on old sites will still work, but new ones "
+"don't. <br><br>If this is the case for you, <a href=\"https://developers."
+"google.com/maps/documentation/javascript/get-api-key#key\" target=\"_blank"
+"\">read this article</a> or <a href=\"https://www.youtube.com/watch?"
+"v=OH98za14LNg\" target=\"_blank\">watch this video</a> (up until 2:00) to "
+"learn how to obtain a proper API key."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:206
+msgid "Social Sharing Settings"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:210
+msgid "Disable theme sharing tools"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:213
+msgid "Disable please!"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:214
+msgid ""
+"By default, the theme inserts some meta tags in the header of your website "
+"in order to facilitate social sharing. If you are using a SEO plugin which "
+"already does this, you might want to disable the theme functions in order to "
+"prevent any conflicts."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:252
+msgid "Custom CSS Code"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:256
+msgid "Code"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:259
+msgid ""
+"This is a basic textarea to insert your own custom CSS code at the head of "
+"the theme. If you are planning to do serious modifications to the theme, "
+"please use the provided child theme for this purpose."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:293
+msgid "Feature post"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:297
+msgid "Feature level"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:298
+msgid "Only affects the display in the post creative grid."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:310
+msgid "Don't feature"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:311
+msgid "Larger thumbnail"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:312
+msgid "Even larger thumbnail"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:313
+msgid "Huge banner"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:343
+msgid "Unique Project Settings"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:347
+#: inc/advanced-custom-fields-pro-config.php:495
+msgid "Flexible size"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:350
+msgid ""
+"If you are using a flexible masonry grid you have the option to break the "
+"original column size with each project, thus creating a stunning grid. Use "
+"this field to multiply the original column in your portfolio grid. eg: You "
+"have a 6 columns grid and you want this project to fill half the grid. You "
+"will choose size 3. If you want it to fill the entire grid, you choose 6."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:359
+#: inc/advanced-custom-fields-pro-config.php:367
+#: inc/advanced-custom-fields-pro-config.php:507
+#: inc/advanced-custom-fields-pro-config.php:515
+msgid "1 column"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:360
+#: inc/advanced-custom-fields-pro-config.php:508
+msgid "2 columns"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:361
+#: inc/advanced-custom-fields-pro-config.php:509
+msgid "3 columns"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:362
+#: inc/advanced-custom-fields-pro-config.php:510
+msgid "4 columns"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:363
+#: inc/advanced-custom-fields-pro-config.php:511
+msgid "5 columns"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:364
+#: inc/advanced-custom-fields-pro-config.php:512
+msgid "6 columns"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:379
+msgid "Unique portfolio page"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:382
+msgid ""
+"If you're using multiple portfolios, please choose the portfolio page where "
+"this project is included."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:402
+msgid "Lightbox / url alternative"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:405
+msgid ""
+"You have the possibility to make this project load a certain element (image "
+"or video) inside a lightbox on the grid, and totally skip the loading of the "
+"actual project page. Or, you can skip the lightbox and just open a url of "
+"your choice in the same window."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:423 inc/customizer.php:878
+#: inc/plugins/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:450
+msgid "URL"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:491
+msgid "Unique Product Settings"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:498
+msgid ""
+"If you are using a flexible masonry grid you have the option to break the "
+"original column size with each product, thus creating a stunning grid. Use "
+"this field to multiply the original column in your shop grid. eg: You have a "
+"6 columns grid and you want this product to fill half the grid. You will "
+"choose size 3. If you want it to fill the entire grid, you choose 6."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:527
+msgid "Product gallery tweaks"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:530
+msgid ""
+"If you want to tweak the product gallery (left side) in order to completely "
+"disable it and only show the hero header, or to hide the featured image from "
+"the gallery, leaving only the other images."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:539
+msgid "Hide gallery entirely"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:540
+msgid "Hide only featured image"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:565
+msgid "Portfolio Settings"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:569
+msgid "Portfolio configuration"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:580
+msgid "Edit this portfolio page's content and behaviour."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:586
+msgid "Displayed categories"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:589
+msgid "Choose which of the portfolio categories you want to include."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:608
+msgid "Projects per page"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:611
+msgid ""
+"Use \"-1\" if you want to display all of your projects on the page. Lazy "
+"loading will still be used anyway."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:631
+msgid "Extra content"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:634
+msgid "Display page builder content"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:643
+msgid "Don't display"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:644
+msgid "Below the grid"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:645
+msgid "Above the grid"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:652
+msgid "Portfolio style"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:663
+msgid "Edit this portfolio page's style."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:669 inc/customizer.php:88
+msgid "Masonry grid type"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:681 inc/customizer.php:93
+msgid "Flexible"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:682 inc/customizer.php:94
+msgid "Fixed"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:683 inc/customizer.php:95
+msgid "Regular"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:698 inc/customizer.php:133
+msgid "Regular grid aspect ratio"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:701
+msgid ""
+"All items displayed in the regular grid will have the exact same size, so "
+"you need to specify the desired aspect ratio for the resizing function."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:736 inc/customizer.php:157
+msgid "Number of columns"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:739
+msgid ""
+"Default number of columns in the grid, which can be overwritten by "
+"individual projects."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:768 inc/customizer.php:183
+msgid "Columns gap"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:771
+msgid "Default margin between each element in the grid."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:791
+msgid "Desktop caption animation"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:794
+msgid "Targets screens with a resolution larger than 1024px."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:803
+msgid "Minimal"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:804
+msgid "Classic"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:805
+msgid "None (always shown)"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:806
+msgid "Huge overlay"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:821
+msgid "Mobile caption behaviour"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:824
+msgid "Targets mobile touch devices with a resolution lower than 1024px."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:833
+msgid "Don't show animation"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:834
+msgid "First tap displays animation"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:835
+msgid "Always show caption"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:850
+msgid "Caption background color"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:865
+msgid "Caption background opacity"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:888
+msgid "Caption text color"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:923
+msgid "Page Style"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:927 inc/customizer.php:29
+msgid "Color scheme"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:938
+msgid "Use unique different color scheme for this page"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:943
+msgid "Background color"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:966
+msgid "Text color"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:989
+msgid "Accent color"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1012
+msgid "Background opacity (start)"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1015
+msgid "The page background's opacity before scrolling."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1035
+msgid "Background opacity (end)"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1038
+msgid "The page background's opacity after scrolling."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1058
+msgid "Custom logo"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1061
+msgid ""
+"Optional image logo for this page (if you're using image logo). Please make "
+"sure that the custom logo is exactly the same size as the original one!"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1102
+#: inc/advanced-custom-fields-pro-config.php:1343
+msgid "Hero Header"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1106
+#: inc/advanced-custom-fields-pro-config.php:1347
+msgid "Hero header"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1117
+#: inc/advanced-custom-fields-pro-config.php:1358
+msgid "Enable the fullscreen fixed hero header"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1122
+#: inc/advanced-custom-fields-pro-config.php:1363
+msgid "Image(s)"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1125
+#: inc/advanced-custom-fields-pro-config.php:1366
+msgid ""
+"Upload one or more images for the hero header (multiple images are placed in "
+"a slider)."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1146
+#: inc/advanced-custom-fields-pro-config.php:1387
+msgid "Slider autoplay"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1162
+#: inc/advanced-custom-fields-pro-config.php:1403
+#: inc/advanced-custom-fields-pro-config.php:2001
+msgid "Video"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1165
+#: inc/advanced-custom-fields-pro-config.php:1406
+msgid ""
+"If present, it will be used instead of the image(s). However, mobile devices "
+"will still show a static image, so you should upload one image as a "
+"fallback, whenever the video will fail to load."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1181
+#: inc/advanced-custom-fields-pro-config.php:1422
+msgid "Video loop"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1197
+msgid "Custom tagline"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1200
+msgid "Replaces the default title of the portfolio item / page."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1215
+msgid "No text"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1226
+msgid "Completely hide title / tagline on hero header"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1231
+msgid "Vertical centering"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1242
+msgid "Center the tagline vertically on the hero header"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1247
+msgid "No page title"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1258
+msgid "Hide the page title even when there is no hero header"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1263
+msgid "Reduce hero height (hides tagline)"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1274
+msgid ""
+"Reduce the gap between the header and the main content when the hero header "
+"is enabled"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1279
+msgid "Content visibility"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1302
+#: inc/advanced-custom-fields-pro-config.php:1438
+msgid "Scroll hero header"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1313
+#: inc/advanced-custom-fields-pro-config.php:1449
+msgid ""
+"Transform the fixed hero header into a regular hero which scrolls along with "
+"the content."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1586
+#: inc/advanced-custom-fields-pro-config.php:1882
+msgid "Open in new window"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1902
+msgid "Tap only once to open link"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1977
+#: inc/portfolio-category-images.php:34 inc/portfolio-category-images.php:51
+#: inc/portfolio-category-images.php:200
+msgid "Image"
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:1980
+msgid "An optional cover image for the entire page."
+msgstr ""
+
+#: inc/advanced-custom-fields-pro-config.php:2004
+msgid "An optional cover video for the entire page."
+msgstr ""
+
+#: inc/customizer.php:9
+msgid ""
+"These fields below are only used when the social links are set for profiles "
+"instead of sharing."
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:33 inc/customizer.php:68
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:38 inc/customizer.php:60
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:43 inc/customizer.php:64 inc/woocommerce.php:51
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Social"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Thumbnail's style"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Caption over image"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Caption underneath"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "4:3"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "16:9"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "3:4"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "1:1"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "1"
+msgstr ""
+
+#: inc/customizer.php:163 inc/customizer.php:1135
+msgid "2"
+msgstr ""
+
+#: inc/customizer.php:164 inc/customizer.php:1134
+msgid "3"
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "4"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "5"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "6"
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer.php:206
+msgid "None - show all products"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "6 products per page"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "12 products per page"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "18 products per page"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "24 products per page"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "30 products per page"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Site image logo"
+msgstr ""
+
+#: inc/customizer.php:234 inc/customizer.php:840 inc/customizer.php:904
+#: inc/customizer.php:1067 inc/customizer.php:1089 inc/customizer.php:1194
+msgid "Enabled"
+msgstr ""
+
+#: inc/customizer.php:235 inc/customizer.php:820 inc/customizer.php:841
+#: inc/customizer.php:863 inc/customizer.php:905 inc/customizer.php:1068
+#: inc/customizer.php:1090 inc/customizer.php:1195
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "Logo image"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Blog pages logo image"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "WooCommerce pages logo image"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Image logo height"
+msgstr ""
+
+#: inc/customizer.php:338
+msgid "Background"
+msgstr ""
+
+#: inc/customizer.php:358
+msgid "Text"
+msgstr ""
+
+#: inc/customizer.php:378
+msgid "Accent"
+msgstr ""
+
+#: inc/customizer.php:398
+msgid "Accent foreground"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Blog background"
+msgstr ""
+
+#: inc/customizer.php:438
+msgid "Blog text"
+msgstr ""
+
+#: inc/customizer.php:458
+msgid "Comments section background"
+msgstr ""
+
+#: inc/customizer.php:478
+msgid "Comments section text"
+msgstr ""
+
+#: inc/customizer.php:498
+msgid "Sidebar background"
+msgstr ""
+
+#: inc/customizer.php:518
+msgid "Sidebar text"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Shop pages background"
+msgstr ""
+
+#: inc/customizer.php:559
+msgid "Shop pages text"
+msgstr ""
+
+#: inc/customizer.php:579
+msgid "Shop products caption background"
+msgstr ""
+
+#: inc/customizer.php:599
+msgid "Shop products caption text"
+msgstr ""
+
+#: inc/customizer.php:619
+msgid "Cart sidebar background"
+msgstr ""
+
+#: inc/customizer.php:639
+msgid "Cart sidebar text"
+msgstr ""
+
+#: inc/customizer.php:658
+msgid "404 page image background"
+msgstr ""
+
+#: inc/customizer.php:677
+msgid "Menus / Logo"
+msgstr ""
+
+#: inc/customizer.php:695
+msgid "Main Headings"
+msgstr ""
+
+#: inc/customizer.php:713
+msgid "Other Headings"
+msgstr ""
+
+#: inc/customizer.php:731
+msgid "Body"
+msgstr ""
+
+#: inc/customizer.php:749
+msgid "Captions"
+msgstr ""
+
+#: inc/customizer.php:813
+msgid "Sticky header"
+msgstr ""
+
+#: inc/customizer.php:818
+msgid "On scoll up"
+msgstr ""
+
+#: inc/customizer.php:819
+msgid "Always visible"
+msgstr ""
+
+#: inc/customizer.php:835
+msgid "Page actions"
+msgstr ""
+
+#: inc/customizer.php:856
+msgid "Design"
+msgstr ""
+
+#: inc/customizer.php:861
+msgid "Show text"
+msgstr ""
+
+#: inc/customizer.php:862
+msgid "Show icons"
+msgstr ""
+
+#: inc/customizer.php:883
+msgid "Sharing links"
+msgstr ""
+
+#: inc/customizer.php:884
+msgid "Links to social profile websites"
+msgstr ""
+
+#: inc/customizer.php:899
+msgid "Always display hamburger menu"
+msgstr ""
+
+#: inc/customizer.php:920
+msgid "500px link"
+msgstr ""
+
+#: inc/customizer.php:937
+msgid "Dribbble link"
+msgstr ""
+
+#: inc/customizer.php:954
+msgid "Facebook link"
+msgstr ""
+
+#: inc/customizer.php:973
+msgid "Instagram link"
+msgstr ""
+
+#: inc/customizer.php:990
+msgid "LinedIn link"
+msgstr ""
+
+#: inc/customizer.php:1007
+msgid "Pinterest link"
+msgstr ""
+
+#: inc/customizer.php:1026
+msgid "Soundcloud link"
+msgstr ""
+
+#: inc/customizer.php:1045
+msgid "Twitter link"
+msgstr ""
+
+#: inc/customizer.php:1062
+msgid "Mobile search icon"
+msgstr ""
+
+#: inc/customizer.php:1084
+msgid "Widgetised sidebar"
+msgstr ""
+
+#: inc/customizer.php:1106
+msgid "Blog style"
+msgstr ""
+
+#: inc/customizer.php:1111
+msgid "Minimal journal"
+msgstr ""
+
+#: inc/customizer.php:1112
+msgid "Creative grid"
+msgstr ""
+
+#: inc/customizer.php:1129
+msgid "Creative grid columns"
+msgstr ""
+
+#: inc/customizer.php:1151
+msgid "Single post style"
+msgstr ""
+
+#: inc/customizer.php:1156
+msgid "Half"
+msgstr ""
+
+#: inc/customizer.php:1157
+msgid "Full"
+msgstr ""
+
+#: inc/customizer.php:1158
+msgid "Complex (hero header available)"
+msgstr ""
+
+#: inc/customizer.php:1171
+msgid "Creative grid carousel posts"
+msgstr ""
+
+#: inc/customizer.php:1172
+msgid "You should select at least three posts by pressing the Ctrl (Cmd) key."
+msgstr ""
+
+#: inc/customizer.php:1189
+msgid "AJAX powered"
+msgstr ""
+
+#: inc/functions/general.php:25
+msgid "Tw"
+msgstr ""
+
+#: inc/functions/general.php:26
+msgid "Fb"
+msgstr ""
+
+#: inc/functions/general.php:27
+msgid "Pin"
+msgstr ""
+
+#: inc/functions/general.php:28
+msgid "500px"
+msgstr ""
+
+#: inc/functions/general.php:29
+msgid "Dribb"
+msgstr ""
+
+#: inc/functions/general.php:30
+msgid "Ins"
+msgstr ""
+
+#: inc/functions/general.php:31
+msgid "Lin"
+msgstr ""
+
+#: inc/functions/general.php:32
+msgid "Sound"
+msgstr ""
+
+#: inc/functions/general.php:46
+msgid "Follow"
+msgstr ""
+
+#: inc/functions/general.php:75
+msgid "Share"
+msgstr ""
+
+#: inc/functions/general.php:110
+msgid "Go to Top"
+msgstr ""
+
+#: inc/functions/general.php:115
+msgid "Back to Portfolio"
+msgstr ""
+
+#: inc/functions/general.php:125
+msgid "Back to Blog"
+msgstr ""
+
+#: inc/functions/general.php:130
+msgid "Back to Shop"
+msgstr ""
+
+#: inc/functions/header-page.php:159 single.php:39
+msgid "written by "
+msgstr ""
+
+#: inc/functions/header-page.php:912
+msgid "Your search here"
+msgstr ""
+
+#: inc/functions/portfolio.php:227 inc/functions/portfolio.php:253
+#: inc/woocommerce.php:242
+msgid "All"
+msgstr ""
+
+#: inc/functions/portfolio.php:350 inc/functions/post.php:71
+#: inc/functions/post.php:89 inc/woocommerce.php:143
+msgid "Next"
+msgstr ""
+
+#: inc/functions/post.php:88
+msgid "Prev"
+msgstr ""
+
+#: inc/functions/post.php:160
+msgid "Comments"
+msgstr ""
+
+#: inc/functions/post.php:208
+msgid "says:"
+msgstr ""
+
+#: inc/functions/post.php:214
+msgid "M j \\a\\t h:i"
+msgstr ""
+
+#: inc/functions/post.php:225
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions/post.php:232
+msgid "reply"
+msgstr ""
+
+#: inc/functions/post.php:247
+msgid "Pingback:"
+msgstr ""
+
+#: inc/functions/post.php:247
+msgid "(Edit)"
+msgstr ""
+
+#: inc/functions/post.php:313
+msgid "Category"
+msgstr ""
+
+#: inc/functions/post.php:316
+msgid "Tag"
+msgstr ""
+
+#: inc/functions/post.php:319
+msgid "Author"
+msgstr ""
+
+#: inc/functions/post.php:322
+msgid "Year"
+msgstr ""
+
+#: inc/functions/post.php:323
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/functions/post.php:325
+msgid "Month"
+msgstr ""
+
+#: inc/functions/post.php:326
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/functions/post.php:328
+msgid "Day"
+msgstr ""
+
+#: inc/functions/post.php:329
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/functions/post.php:331 inc/functions/post.php:338
+msgid "Archives"
+msgstr ""
+
+#: inc/functions/post.php:555
+msgid "Read"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:38
+msgid "Krown Columns Manager"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:87
+msgid "Are you sure that you want to close this window and loose all changes?"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:88
+msgid "Are you sure that you want to remove this column?"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:89
+#: inc/krown-column-manager/krown-column-manager.php:105
+msgid "Show Columns Manager"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:90
+msgid "Show WordPress Editor"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:132
+#: inc/krown-column-manager/krown-column-manager.php:136
+msgid "Add column"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:146
+#: woocommerce/myaccount/form-reset-password.php:58
+msgid "Save"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:148
+msgid ".custom-css-class"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:149
+msgid "Delete"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:160
+msgid "Desktop settings"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:161
+msgid "Laptop settings"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:162
+msgid "Tablet settings"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:163
+msgid "Phone settings"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:173
+#: inc/krown-column-manager/krown-column-manager.php:191
+#: inc/krown-column-manager/krown-column-manager.php:199
+#: inc/krown-column-manager/krown-column-manager.php:207
+msgid "Column Width"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:174
+msgid "Center column"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:178
+msgid "Padding Top"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:182
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:239
+msgid "Auto"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:240
+msgid "8.33 %"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:241
+msgid "16.66 %"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:242
+msgid "25 %"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:243
+msgid "33.33 %"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:244
+msgid "41.66 %"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:245
+msgid "50 %"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:246
+msgid "58.33 %"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:247
+msgid "66.66 %"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:248
+msgid "75 %"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:249
+msgid "83.33 %"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:250
+msgid "91.66 %"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:251
+msgid "100 %"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:252
+msgid "Hide"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:267
+msgid "None"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:268
+msgid "Small"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:269
+msgid "Medium"
+msgstr ""
+
+#: inc/krown-column-manager/krown-column-manager.php:270
+msgid "Large"
+msgstr ""
+
+#: inc/mpt/init.php:33
+#, php-format
+msgid ""
+"The 'label' and 'id' values of the 'args' parameter of '%s::%s()' are "
+"required"
+msgstr ""
+
+#: inc/mpt/init.php:93
+#, php-format
+msgid "Set as %3$s"
+msgstr ""
+
+#: inc/mpt/init.php:262
+#, php-format
+msgid "Remove %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:393
+#: inc/plugins/class-tgm-plugin-activation.php:912
+#: inc/plugins/class-tgm-plugin-activation.php:2618
+#: inc/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:394
+#: inc/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:395
+#: inc/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1019
+#: inc/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1206
+#: inc/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3594
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3594
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/plugins.php:12
+msgid "Advanced Custom Fields Pro"
+msgstr ""
+
+#: inc/plugins/plugins.php:24
+msgid "Calafate Portfolio"
+msgstr ""
+
+#: inc/plugins/plugins.php:36
+msgid "Calafate Shortcodes"
+msgstr ""
+
+#: inc/plugins/plugins.php:48
+msgid "Envato Market"
+msgstr ""
+
+#: inc/plugins/plugins.php:60
+msgid "WordPress SEO by Yoast"
+msgstr ""
+
+#: inc/plugins/plugins.php:66
+msgid "W3 Total Cache"
+msgstr ""
+
+#: inc/plugins/plugins.php:72
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/plugins/plugins.php:79
+msgid "oAuth Twitter Feed for Developers"
+msgstr ""
+
+#: inc/portfolio-category-images.php:37 inc/portfolio-category-images.php:53
+#: inc/portfolio-category-images.php:182
+msgid "Upload/Add image"
+msgstr ""
+
+#: inc/portfolio-category-images.php:54 inc/portfolio-category-images.php:183
+msgid "Remove image"
+msgstr ""
+
+#: inc/portfolio-category-images.php:218
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/portfolio-category-images.php:238
+msgid "Categories Images settings"
+msgstr ""
+
+#: inc/portfolio-category-images.php:239
+msgid "Excluded Taxonomies"
+msgstr ""
+
+#: inc/portfolio-category-images.php:244
+msgid ""
+"Please select the taxonomies you want to exclude it from Categories Images "
+"plugin"
+msgstr ""
+
+#: inc/portfolio-category-images.php:264
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/portfolio-category-images.php:268
+msgid "Categories Images"
+msgstr ""
+
+#: inc/woocommerce.php:166
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: inc/woocommerce.php:172
+msgid "View reviews"
+msgstr ""
+
+#: inc/woocommerce.php:376
+msgid "Product"
+msgstr ""
+
+#: inc/woocommerce.php:377
+msgid "Price"
+msgstr ""
+
+#: inc/woocommerce.php:378 inc/woocommerce.php:782
+msgid "Total"
+msgstr ""
+
+#: inc/woocommerce.php:379
+msgid "Remove"
+msgstr ""
+
+#: inc/woocommerce.php:380
+msgid "Old Price"
+msgstr ""
+
+#: inc/woocommerce.php:381 woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr ""
+
+#: inc/woocommerce.php:382
+msgid "Very bad"
+msgstr ""
+
+#: inc/woocommerce.php:383 woocommerce/single-product-reviews.php:94
+msgid "Not that bad"
+msgstr ""
+
+#: inc/woocommerce.php:384 woocommerce/single-product-reviews.php:93
+msgid "Average"
+msgstr ""
+
+#: inc/woocommerce.php:385 woocommerce/single-product-reviews.php:92
+msgid "Good"
+msgstr ""
+
+#: inc/woocommerce.php:386 woocommerce/single-product-reviews.php:91
+msgid "Perfect"
+msgstr ""
+
+#: inc/woocommerce.php:387
+msgid "Change your details"
+msgstr ""
+
+#: inc/woocommerce.php:679
+msgid "Write a review"
+msgstr ""
+
+#: inc/woocommerce.php:681
+msgid "Your review was posted and it is awaiting moderation."
+msgstr ""
+
+#: inc/woocommerce.php:683
+msgid "Posting your review, please wait..."
+msgstr ""
+
+#: inc/woocommerce.php:685
+msgid "Please select a rating."
+msgstr ""
+
+#: inc/woocommerce.php:686
+msgid "has been added to your cart."
+msgstr ""
+
+#: inc/woocommerce.php:689
+#, php-format
+msgid "<a class=\"button wc-forward\" href=\"%s\">View Cart</a>"
+msgstr ""
+
+#: inc/woocommerce.php:711
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr ""
+
+#: inc/woocommerce.php:712
+msgid ""
+"Please select some product options before adding this product to your cart."
+msgstr ""
+
+#: inc/woocommerce.php:713
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: inc/woocommerce.php:723
+msgid "View Cart"
+msgstr ""
+
+#: inc/woocommerce.php:744
+msgid "Cart"
+msgstr ""
+
+#: inc/woocommerce.php:759
+msgid "Back"
+msgstr ""
+
+#: inc/woocommerce.php:762
+msgid "Your cart"
+msgstr ""
+
+#: inc/woocommerce.php:786
+msgid "Checkout"
+msgstr ""
+
+#: inc/woocommerce.php:791 inc/woocommerce.php:809
+msgid "Empty"
+msgstr ""
+
+#: inc/woocommerce.php:841
+#, php-format
+msgid "Hello %s"
+msgstr ""
+
+#: inc/woocommerce.php:843
+msgid "Login / Register"
+msgstr ""
+
+#: inc/woocommerce.php:874
+msgid "Description"
+msgstr ""
+
+#: page.php:28 single-portfolio.php:27 template-contact.php:23
+msgid "Pages:"
+msgstr ""
+
+#: page.php:39 single-portfolio.php:34 single.php:81 template-contact.php:34
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: single-portfolio.php:22 single.php:67
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: single.php:47 template-parts/content-archive.php:30
+#: template-parts/content.php:30
+msgid "0 comments"
+msgstr ""
+
+#: single.php:47 template-parts/content-archive.php:30
+#: template-parts/content.php:30
+msgid "1 comment"
+msgstr ""
+
+#: single.php:47 template-parts/content-archive.php:30
+#: template-parts/content.php:30
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: single.php:72
+msgid "Pages: "
+msgstr ""
+
+#: template-cover-alternate.php:29
+msgid "View Project"
+msgstr ""
+
+#: template-parts/content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-search.php:31
+msgid "read"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:27
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:43
+#: woocommerce/checkout/form-checkout.php:64
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:44
+#: woocommerce/checkout/form-checkout.php:78
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:47
+#: woocommerce/checkout/form-checkout.php:96
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:50
+msgid "Review Order"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:65
+#: woocommerce/checkout/form-checkout.php:79
+msgid "Fill in your details"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:68
+#: woocommerce/checkout/form-checkout.php:82
+#: woocommerce/checkout/form-checkout.php:101
+msgid "Next step"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:97
+msgid "Forgot about your discount?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:113
+msgid "Review your order"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:115
+#, php-format
+msgid "1 item in your cart"
+msgid_plural "%s items in your cart"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "Thank you"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:39
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:50 woocommerce/checkout/thankyou.php:87
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:54
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:63
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:68
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:73
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:27
+msgid "Hello"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:29
+#, php-format
+msgid "(not %1$s? %2$sSign out%3$s)"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:34
+#, php-format
+msgid ""
+"From your account dashboard you can view your %1$srecent orders%2$s, manage "
+"your %3$sshipping and billing addresses%2$s and %4$sedit your password and "
+"account details%2$s."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:62
+#: woocommerce/myaccount/form-login.php:90
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:112
+#: woocommerce/myaccount/form-login.php:148
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+msgid "Insert your details"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:71
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:84
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:94
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:113
+msgid "Create an account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:123
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:130
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:32
+#: woocommerce/myaccount/lost-password-confirmation.php:32
+msgid "Lost"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:33
+#: woocommerce/myaccount/form-reset-password.php:33
+#: woocommerce/myaccount/lost-password-confirmation.php:33
+msgid "password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:41
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:51
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:32
+msgid "Reset"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:38
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:41
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:45
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:36
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet. Be the first one!"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+#, php-format
+msgid "You are logged in as %1$s."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Rate"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:108
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:76
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:28
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:36
+msgid "verified owner"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Calafate"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://heythemers.com/themes/calafate/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"An incredibly unique portfolio focused theme, driven by AJAX and modern web "
+"technologies."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Hey Themers"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/vankarwai"
+msgstr ""

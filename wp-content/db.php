@@ -1,0 +1,1 @@
+/Users/nayeemahaye/Sites/Humescores/wp-content/plugins/query-monitor/wp-content/db.php

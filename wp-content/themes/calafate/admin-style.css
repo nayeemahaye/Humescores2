@@ -1,0 +1,81 @@
+.acf-field[data-name="project-size"] li {
+	display: inline-block;
+	width: 135px;
+	height: 200px;
+	margin: 30px 20px 0;
+}
+.acf-field[data-name="project-size"] input {
+	display: none;
+}
+.acf-field[data-name="project-size"] input:checked + span:before {
+	color: #000;
+	background: #FFEA00;
+}
+.acf-field[data-name="project-size"] .ups {
+	display: block;
+	background: url(images/flexible-grids-options.png) no-repeat 0 0 transparent;
+	background-size: 960px 153px;
+	margin: 0;
+	padding-top: 165px;
+	font-size: 11px;
+	line-height: 11px;
+	font-weight: bold;
+	text-align: center;
+}
+.acf-field[data-name="project-size"] .ups:before {
+	content: "✓";
+	display: inline-block;
+	position: relative;
+	top: 0px;
+	color: #fff;
+	width: 20px;
+	height: 20px;
+	padding: 2px 4px;
+	font-weight: normal;
+	box-sizing: border-box;
+	margin-right: 10px;
+	border-radius: 20px;
+	border: 2px solid #FFEA00;
+	transition: all 100ms;
+}
+
+#advanced-custom-fields-pro-update, .wp-list-table tr[data-slug="advanced-custom-fields-pro"] span.update {
+  display: none;
+}
+
+.acf-field[data-name="project-size"] .ups-2 {
+	background-position: -165px 0px;
+}
+.acf-field[data-name="project-size"] .ups-3 {
+	background-position: -330px 0px;
+}
+.acf-field[data-name="project-size"] .ups-4 {
+	background-position: -495px 0px;
+}
+.acf-field[data-name="project-size"] .ups-5 {
+	background-position: -660px 0px;
+}
+.acf-field[data-name="project-size"] .ups-6 {
+	background-position: -825px 0px;
+}
+
+.acf-field.acf-field-select.acf-field-57190z95a486b3.acf-c0 {
+    border-top: 0;
+    margin-top: -20px;
+}
+.acf-field.acf-field-text.acf-field-572opQ5a486b3, .acf-field.acf-field-text.acf-field-5903374e6d055, body.admin-pt-template-cover .acf-field-5752cfa58129f {
+    border-top: 0;
+    border-left: 0 !important;
+    margin-top: -20px;
+}
+.post-type-post:not(.w-hero) #acf-group_57285ss34ca41aa {
+	display: none !important;
+}
+
+body.admin-pt-template-cover #acf-group_5728534ca41aa, body.admin-pt-template-cover .acf-field-5728de3dc85a, body.admin-pt-template-cover .acf-field-572856c3dc85a, body.admin-pt-template-cover-alternate #acf-group_5728534ca41aa, body.admin-pt-template-cover-alternate .acf-field-5728de3dc85a, body.admin-pt-template-cover-alternate .acf-field-572856c3dc85a {
+	display: none !important;
+}
+
+#krown-column-manager-app .grid__item > div > div {
+   pointer-events: none;
+}

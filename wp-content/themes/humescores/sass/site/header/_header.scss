@@ -1,0 +1,112 @@
+
+.header-image{
+    
+    max-height: 70vh;
+    overflow: hidden;
+    
+    img {
+        
+        display: block;
+        width:100vw;
+        
+    }
+    
+    
+    
+}
+.site-header {
+	position: relative;
+	padding: 1em;
+	font-family: $font__sans;
+	color: #fff;
+	background-color: $color__skin;
+        
+        max-height: 100px;
+	
+	@media screen and (min-width: $query__small) {
+		padding: 1em 2em;
+               
+	}
+}
+
+.site-branding {
+/*	min-height: 65px;*/
+      
+        
+            display: flex;
+    align-items: center;
+        
+}
+
+.custom-logo-link {
+    margin-right: 1em;
+    img {
+        
+        display: block;
+        height: 30px;
+        width:auto;
+    }
+}
+
+.site-branding-text {
+display: flex;
+flex-direction: column;
+justify-content: center;
+height:65px;
+margin: 1em;
+    
+}
+
+.site-title {
+	margin: 0;
+	padding: 0;
+	font-size: 1.6em;
+	font-weight: 900;
+	line-height: 1em;
+	
+	a {
+		color: white;
+		text-decoration: none;
+		
+		&:hover,
+		&:focus {
+			text-decoration: underline;
+		}
+	}
+}
+
+.site-description {
+	margin: 0;
+	font-size: .9em;
+	font-style: italic;
+	font-weight: 100;
+}
+
+@media screen and (min-width: $query__medium) {
+    
+    .site-header {
+        
+        display: flex;
+        justify-content: space-between;
+        flex:wrap;
+        
+    }
+    
+    .site-branding {
+        
+        width: 35%;
+        flex: 1 0 auto;
+    }
+    
+    .site-navigation {
+        
+        width: 55%;
+    }
+}
+
+
+/*
+Header Menu
+*/
+
+@import "header-menu";
